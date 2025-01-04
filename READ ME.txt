@@ -1,0 +1,44 @@
+--------------------------------------------------
+This resource pack should be compatible with all other Custom Model Resource packs
+that I (ArtGnat) have made.
+--------------------------------------------------
+I can't garantee it to be compatible with other resource packs not made by me
+that add Custom Models like this.
+--------------------------------------------------
+This pack was made for/tested in 1.20.4 (should work in any 1.20.X version)
+--------------------------------------------------
+
+
+You will need to use the below command(s) in game to get the Objects added by
+this ResourcePack.
+
+
+OBJECT SPAWN COMMAND
+====================
+/give @s minecraft:carved_pumpkin{CustomModelData:1}
+
+OBJECT SPAWN WITH CUSTOM NAME
+============================
+/give @s minecraft:carved_pumpkin{display:{Name:"{\"text\":\"NAMEHERE\"}"},CustomModelData:1}
+
+
+Just Replace the Number for the CustomModelData in the comand with
+the one associated with the Object you'd like to summon/spawn.
+
+Check the "List of Added Models" Text document for the List of Objects/Models in the Pack,
+they will have their ModelData number next to their name in the List.
+
+
+------------------------------------------
+
+
+If you have the Custom Roleplay Data (datapack) on your world/server.
+Then you can use the below command instead while holding a Carved Pumpkin
+to turn it into one of the Custom Objects/Models added by this resource pack.
+
+============================
+/trigger CustomModelData set <model data #>
+
+
+Just replace "<model data #>" with the Number of the model you want.
+refrence the "List of Added Models" Text document to find the correct model number.

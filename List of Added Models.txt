@@ -1,0 +1,19 @@
+=========================================================
+These are the Models/Objects added by this Resource pack
+along with their Custom Model Number
+=========================================================
+
+bee_plush = 1 - ArtGnat
+----------------------------
+mini_mc = 2 - mcnugggzs
+----------------------------
+mini_marco = 3 - mcnuggzs
+----------------------------
+mini_mcpeachpies = 4 - mcnuggzs
+----------------------------
+katanas = 7 - mcnuggzs
+----------------------------
+pizza = 8 - mcnuggzs
+----------------------------
+pizza_paddle = 9 - mcnuggzs
+----------------------------

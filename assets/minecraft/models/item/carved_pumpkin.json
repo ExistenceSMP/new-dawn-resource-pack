@@ -1,0 +1,18 @@
+{
+ "parent": "minecraft:block/carved_pumpkin",
+ "textures": {
+  "layer0": "item/carved_pumpkin"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data":100}, "model": "block/custom/bee_plush"},
+  {"predicate": {"custom_model_data":200}, "model": "block/custom/mini_mc"},
+  {"predicate": {"custom_model_data":300}, "model": "block/custom/mini_marco"},
+  {"predicate": {"custom_model_data":400}, "model": "block/custom/mini_mcpeachpies"},
+  {"predicate": {"custom_model_data":700}, "model": "block/custom/katanas"},
+  {"predicate": {"custom_model_data":800}, "model": "block/custom/pizza"},
+  {"predicate": {"custom_model_data":900}, "model": "block/custom/pizza_paddle"},
+  {"predicate": {"custom_model_data":999}, "model": "block/custom/cowboy_hat"}
+  
+ ]
+}
